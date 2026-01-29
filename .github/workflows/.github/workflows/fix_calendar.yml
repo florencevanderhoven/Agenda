@@ -1,0 +1,36 @@
+name: Fix ICS and publish
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # elke 4 uur
+  workflow_dispatch:        # handmatig triggeren
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: python -m pip install requests
+
+      - name: Run fix script
+        run: python fix_ics_timezone.py
+
+      - name: Upload fixed ICS
+        uses: actions/upload-artifact@v3
+        with:
+          name: fixed-calendar
+          path: fixed_calendar.ics
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: './'
+          allow_empty_commit: true

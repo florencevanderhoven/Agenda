@@ -21,88 +21,13 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 DESCRIPTION:\n
-UID:040000008200E00074C5B7101A82E0080000000070394C1CE183DC01000000000000000010000000383E67521FB9ED45B6000299BB47271B
-SUMMARY:Kennismaking Florence - Nanne
-DTSTART;TZID=W. Europe Standard Time:20260113T123000
-DTEND;TZID=W. Europe Standard Time:20260113T133000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Ergens op de 4e
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n
-RRULE:FREQ=WEEKLY;UNTIL=20260811T133000Z;INTERVAL=2;BYDAY=TU;WKST=MO
-EXDATE;TZID=Romance Standard Time:20260421T153000
-UID:040000008200E00074C5B7101A82E008000000003034A53A5EB9D90100000000000000001000000077CF8BD5104B90458CA4EC46E34048A8
-SUMMARY:W&D Teamoverleg
-DTSTART;TZID=Romance Standard Time:20260113T153000
-DTEND;TZID=Romance Standard Time:20260113T163000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:504
-LOCATION:ntb
-X-MICROSOFT-CDO-APPT-SEQUENCE:504
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Pictogram docx] 20260113 Agenda Teamoverleg.docx<https://hoofdstad.sharepoint.com/:w:/s/SW-RE-WONEN-BeleidWoningkwaliteitEnDuurzaamheid/IQAhfD3UDguaTpASci5A1CoVAcSj7tbwsb1nlvCRP1aRprY>\n\nBijgaand de agenda.\n\nGroetjes\,\nAngela\n\n
-UID:040000008200E00074C5B7101A82E008000000003034A53A5EB9D90100000000000000001000000077CF8BD5104B90458CA4EC46E34048A8
-RECURRENCE-ID;TZID=Romance Standard Time:20260113T153000
-SUMMARY:W&D Teamoverleg
-DTSTART;TZID=Romance Standard Time:20260113T153000
-DTEND;TZID=Romance Standard Time:20260113T163000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:513
-LOCATION:Auditorium 1C19
-X-MICROSOFT-CDO-APPT-SEQUENCE:513
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n
 UID:040000008200E00074C5B7101A82E008000000002C1C702D8E84DC0100000000000000001000000040CFFE7BDFDA0043B236F3812A7E18F7
 SUMMARY:Projectplan renovatieadvies doorlezen
 DTSTART;TZID=W. Europe Standard Time:20260114T080000
 DTEND;TZID=W. Europe Standard Time:20260114T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -126,7 +51,7 @@ DTSTART;TZID=W. Europe Standard Time:20260114T110000
 DTEND;TZID=W. Europe Standard Time:20260114T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -150,7 +75,7 @@ DTSTART;TZID=W. Europe Standard Time:20260114T130000
 DTEND;TZID=W. Europe Standard Time:20260114T134500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -174,7 +99,7 @@ DTSTART;TZID=Romance Standard Time:20260114T140000
 DTEND;TZID=Romance Standard Time:20260114T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -192,31 +117,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dit is de reeks die we met Jara hadden\n\n________________________________\nVan: Walen\, Lisa <l.walen@amsterdam.nl>\nVerzonden: donderdag 11 september 2025 11:24:52 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Kleijn\, Wouter <w.kleijn@amsterdam.nl>\; Horst\, Meike <meike.horst@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\nOnderwerp: Bijpraat integrale adviezen\nWanneer: Vindt om de week plaats op donderdag van 11:00 tot 11:30 geldig vanaf 25-9-2025.\nWaar: Entrada of online\n\nHierbij een moment voor een wekelijkse check-in. We kunnen per week kijken of het nodig is om bij elkaar te komen. Zal ook even een Signal maken om snel te kunnen schakelen.\n\nGroet\,\nLisa\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWYxOTJmOWYtNjdjMC00ZWY2LTg0ZGMtMjhiYWVlZWJlNDFi%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2281bff1c4-f4c1-45a2-a31e-6fbfb3616b2d%22%7d>\nVergadering-id: 321 404 140 291 1\nWachtwoordcode: Pz2QX7Jf\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=81bff1c4-f4c1-45a2-a31e-6fbfb3616b2d&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ZWYxOTJmOWYtNjdjMC00ZWY2LTg0ZGMtMjhiYWVlZWJlNDFi@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E0080000000034F994EDFD22DC010000000000000000100000008184B70C2A75A845AB039AF97DFCF419
-RECURRENCE-ID;TZID=W. Europe Standard Time:20260115T110000
-SUMMARY:Bijpraat integrale adviezen
-DTSTART;TZID=W. Europe Standard Time:20260115T110000
-DTEND;TZID=W. Europe Standard Time:20260115T113000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:4
-LOCATION:Entrada of online
-X-MICROSOFT-CDO-APPT-SEQUENCE:4
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dit is de reeks die we met Jara hadden\n\n________________________________\nVan: Walen\, Lisa <l.walen@amsterdam.nl>\nVerzonden: donderdag 11 september 2025 11:24:52 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Kleijn\, Wouter <w.kleijn@amsterdam.nl>\; Horst\, Meike <meike.horst@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\nOnderwerp: Bijpraat integrale adviezen\nWanneer: Vindt om de week plaats op donderdag van 11:00 tot 11:30 geldig vanaf 25-9-2025.\nWaar: Entrada of online\n\nHierbij een moment voor een wekelijkse check-in. We kunnen per week kijken of het nodig is om bij elkaar te komen. Zal ook even een Signal maken om snel te kunnen schakelen.\n\nGroet\,\nLisa\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWYxOTJmOWYtNjdjMC00ZWY2LTg0ZGMtMjhiYWVlZWJlNDFi%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2281bff1c4-f4c1-45a2-a31e-6fbfb3616b2d%22%7d>\nVergadering-id: 321 404 140 291 1\nWachtwoordcode: Pz2QX7Jf\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=81bff1c4-f4c1-45a2-a31e-6fbfb3616b2d&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ZWYxOTJmOWYtNjdjMC00ZWY2LTg0ZGMtMjhiYWVlZWJlNDFi@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 RRULE:FREQ=WEEKLY;UNTIL=20260813T090000Z;INTERVAL=2;BYDAY=TH;WKST=MO
 EXDATE;TZID=W. Europe Standard Time:20260129T110000,20260212T110000
 UID:040000008200E00074C5B7101A82E0080000000034F994EDFD22DC010000000000000000100000008184B70C2A75A845AB039AF97DFCF419
@@ -225,7 +125,7 @@ DTSTART;TZID=W. Europe Standard Time:20260115T110000
 DTEND;TZID=W. Europe Standard Time:20260115T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:4
@@ -242,6 +142,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Dit is de reeks die we met Jara hadden\n\n________________________________\nVan: Walen\, Lisa <l.walen@amsterdam.nl>\nVerzonden: donderdag 11 september 2025 11:24:52 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Kleijn\, Wouter <w.kleijn@amsterdam.nl>\; Horst\, Meike <meike.horst@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\nOnderwerp: Bijpraat integrale adviezen\nWanneer: Vindt om de week plaats op donderdag van 11:00 tot 11:30 geldig vanaf 25-9-2025.\nWaar: Entrada of online\n\nHierbij een moment voor een wekelijkse check-in. We kunnen per week kijken of het nodig is om bij elkaar te komen. Zal ook even een Signal maken om snel te kunnen schakelen.\n\nGroet\,\nLisa\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWYxOTJmOWYtNjdjMC00ZWY2LTg0ZGMtMjhiYWVlZWJlNDFi%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2281bff1c4-f4c1-45a2-a31e-6fbfb3616b2d%22%7d>\nVergadering-id: 321 404 140 291 1\nWachtwoordcode: Pz2QX7Jf\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=81bff1c4-f4c1-45a2-a31e-6fbfb3616b2d&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ZWYxOTJmOWYtNjdjMC00ZWY2LTg0ZGMtMjhiYWVlZWJlNDFi@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E0080000000034F994EDFD22DC010000000000000000100000008184B70C2A75A845AB039AF97DFCF419
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260115T110000
+SUMMARY:Bijpraat integrale adviezen
+DTSTART;TZID=W. Europe Standard Time:20260115T110000
+DTEND;TZID=W. Europe Standard Time:20260115T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:4
+LOCATION:Entrada of online
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Hoi Evelien\,\n\nJara geeft aan dat het handig is als wij even kennismaken. Ben je ook op Amstel en heb je om half 12 tijd toevallig? Zo niet\, voel je vrij om een ander tijdstip voor te stellen. Ik ben flexibel. Ik zit op de afdeling aan de stoperakant.\n\nGroet\,\nFlorence\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/31386839411233?p=Vh6mTFwSGXZw86Qhjo\nVergadering-id: 313 868 394 112 33\nWachtwoordcode: Yu6o6LN2\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRmZjdjM2UtYjAxMi00OTQzLThlNzItODMyMjk4Mjc2Yjdl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ZjRmZjdjM2UtYjAxMi00OTQzLThlNzItODMyMjk4Mjc2Yjdl@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 UID:040000008200E00074C5B7101A82E00800000000DFD4E2DEF685DC0100000000000000001000000021629324C3E02D409C2EEE79442BBE9E
 SUMMARY:Kennismaking Evelien / Florence
@@ -249,7 +174,7 @@ DTSTART;TZID=W. Europe Standard Time:20260115T113000
 DTEND;TZID=W. Europe Standard Time:20260115T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -273,7 +198,7 @@ DTSTART;TZID=W. Europe Standard Time:20260115T130000
 DTEND;TZID=W. Europe Standard Time:20260115T133000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -297,7 +222,7 @@ DTSTART;TZID=W. Europe Standard Time:20260115T133000
 DTEND;TZID=W. Europe Standard Time:20260115T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -322,7 +247,7 @@ DTSTART;TZID=W. Europe Standard Time:20260115T160000
 DTEND;TZID=W. Europe Standard Time:20260115T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -347,7 +272,7 @@ DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -371,7 +296,7 @@ DTSTART;TZID=W. Europe Standard Time:20260119T093000
 DTEND;TZID=W. Europe Standard Time:20260119T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -395,7 +320,7 @@ DTSTART;TZID=W. Europe Standard Time:20260119T100000
 DTEND;TZID=W. Europe Standard Time:20260119T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -420,7 +345,7 @@ DTSTART;TZID=W. Europe Standard Time:20260119T110500
 DTEND;TZID=W. Europe Standard Time:20260119T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:77
@@ -444,7 +369,7 @@ DTSTART;TZID=W. Europe Standard Time:20260119T130000
 DTEND;TZID=W. Europe Standard Time:20260119T132500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -462,31 +387,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n________________________________\nVan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nVerzonden: maandag 17 november 2025 09:38:57 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\; Goos\, Marijke <M.Goos@amsterdam.nl>\; Zeeuw-Kedde\, Babette de <b.de.zeeuwkedde@amsterdam.nl>\; Hansen\, Evelien <e.hansen@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Heuvel\, Joost van den <j.van.den.heuvel@amsterdam.nl>\nCC: Jong\, Bas de <bas.de.jong@amsterdam.nl>\nOnderwerp: Subsidieteamoverleg\nWanneer: Vindt om de week plaats op maandag van 14:00 tot 15:00 geldig vanaf 8-12-2025.\nWaar: AMST1 5A.0 4P\; Microsoft Teams-vergadering\n\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%226f252adf-3b9d-4371-9484-18d2d9062d87%22%7d>\nVergadering-id: 336 772 942 159 4\nWachtwoordcode: SP6hD7xo\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=6f252adf-3b9d-4371-9484-18d2d9062d87&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
-RRULE:FREQ=WEEKLY;UNTIL=20260803T120000Z;INTERVAL=2;BYDAY=MO;WKST=MO
-UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
-SUMMARY:Subsidieteamoverleg
-DTSTART;TZID=W. Europe Standard Time:20260119T140000
-DTEND;TZID=W. Europe Standard Time:20260119T150000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:6
-LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
-X-MICROSOFT-CDO-APPT-SEQUENCE:6
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________\nVan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nVerzonden: maandag 17 november 2025 09:38:57 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\; Goos\, Marijke <M.Goos@amsterdam.nl>\; Zeeuw-Kedde\, Babette de <b.de.zeeuwkedde@amsterdam.nl>\; Hansen\, Evelien <e.hansen@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Heuvel\, Joost van den <j.van.den.heuvel@amsterdam.nl>\nCC: Jong\, Bas de <bas.de.jong@amsterdam.nl>\nOnderwerp: Subsidieteamoverleg\nWanneer: Vindt om de week plaats op maandag van 14:00 tot 15:00 geldig vanaf 8-12-2025.\nWaar: AMST1 5A.0 4P\; Microsoft Teams-vergadering\n\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%226f252adf-3b9d-4371-9484-18d2d9062d87%22%7d>\nVergadering-id: 336 772 942 159 4\nWachtwoordcode: SP6hD7xo\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=6f252adf-3b9d-4371-9484-18d2d9062d87&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
 UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
 RECURRENCE-ID;TZID=W. Europe Standard Time:20260119T140000
 SUMMARY:Subsidieteamoverleg
@@ -494,7 +394,7 @@ DTSTART;TZID=W. Europe Standard Time:20260119T140000
 DTEND;TZID=W. Europe Standard Time:20260119T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:13
@@ -511,6 +411,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nVan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nVerzonden: maandag 17 november 2025 09:38:57 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\; Goos\, Marijke <M.Goos@amsterdam.nl>\; Zeeuw-Kedde\, Babette de <b.de.zeeuwkedde@amsterdam.nl>\; Hansen\, Evelien <e.hansen@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Heuvel\, Joost van den <j.van.den.heuvel@amsterdam.nl>\nCC: Jong\, Bas de <bas.de.jong@amsterdam.nl>\nOnderwerp: Subsidieteamoverleg\nWanneer: Vindt om de week plaats op maandag van 14:00 tot 15:00 geldig vanaf 8-12-2025.\nWaar: AMST1 5A.0 4P\; Microsoft Teams-vergadering\n\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%226f252adf-3b9d-4371-9484-18d2d9062d87%22%7d>\nVergadering-id: 336 772 942 159 4\nWachtwoordcode: SP6hD7xo\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=6f252adf-3b9d-4371-9484-18d2d9062d87&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20260803T120000Z;INTERVAL=2;BYDAY=MO;WKST=MO
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+SUMMARY:Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20260119T140000
+DTEND;TZID=W. Europe Standard Time:20260119T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:6
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\n
 UID:040000008200E00074C5B7101A82E008000000008807357C5489DC01000000000000000010000000AE326D2DF77B294EA67D8A4ED70A229E
 SUMMARY:Overdracht doornemen
@@ -518,7 +443,7 @@ DTSTART;TZID=W. Europe Standard Time:20260120T090000
 DTEND;TZID=W. Europe Standard Time:20260120T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -536,31 +461,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Beste collega’s\,\n\nHierbij de uitnodiging voor de weekstart in 2026.\n\nMet vriendelijke groet\,\n\nMelissa de Boer\nDirectiesecretariaat Wonen\n\nGemeente Amsterdam\nM 06 4178 1327\n\nVrijdag afwezig\n\nAmstel 1\n1011 PN\nAmsterdam\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFlMzI4MTUtNjcwNi00Njc5LWI3M2YtY2QyNDM2MWE2NWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22e8df989b-59a5-414a-adff-584d3f527538%22%7d>\nVergadering-id: 386 047 876 037 53\nWachtwoordcode: Vg2ht9gq\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=e8df989b-59a5-414a-adff-584d3f527538&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NGFlMzI4MTUtNjcwNi00Njc5LWI3M2YtY2QyNDM2MWE2NWU2@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
-UID:040000008200E00074C5B7101A82E008000000000041CC6D7658DC0100000000000000001000000027646EEE551120419E0857882F935796
-RECURRENCE-ID;TZID=W. Europe Standard Time:20260120T113000
-SUMMARY:Weekstart Wonen
-DTSTART;TZID=W. Europe Standard Time:20260120T113000
-DTEND;TZID=W. Europe Standard Time:20260120T120000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:7
-LOCATION:Pantry 4B
-X-MICROSOFT-CDO-APPT-SEQUENCE:7
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Beste collega’s\,\n\nHierbij de uitnodiging voor de weekstart in 2026.\n\nMet vriendelijke groet\,\n\nMelissa de Boer\nDirectiesecretariaat Wonen\n\nGemeente Amsterdam\nM 06 4178 1327\n\nVrijdag afwezig\n\nAmstel 1\n1011 PN\nAmsterdam\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFlMzI4MTUtNjcwNi00Njc5LWI3M2YtY2QyNDM2MWE2NWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22e8df989b-59a5-414a-adff-584d3f527538%22%7d>\nVergadering-id: 386 047 876 037 53\nWachtwoordcode: Vg2ht9gq\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=e8df989b-59a5-414a-adff-584d3f527538&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NGFlMzI4MTUtNjcwNi00Njc5LWI3M2YtY2QyNDM2MWE2NWU2@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
 RRULE:FREQ=WEEKLY;UNTIL=20260811T093000Z;INTERVAL=1;BYDAY=TU;WKST=MO
 EXDATE;TZID=W. Europe Standard Time:20260421T113000
 UID:040000008200E00074C5B7101A82E008000000000041CC6D7658DC0100000000000000001000000027646EEE551120419E0857882F935796
@@ -569,7 +469,7 @@ DTSTART;TZID=W. Europe Standard Time:20260120T113000
 DTEND;TZID=W. Europe Standard Time:20260120T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:7
@@ -586,6 +486,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Beste collega’s\,\n\nHierbij de uitnodiging voor de weekstart in 2026.\n\nMet vriendelijke groet\,\n\nMelissa de Boer\nDirectiesecretariaat Wonen\n\nGemeente Amsterdam\nM 06 4178 1327\n\nVrijdag afwezig\n\nAmstel 1\n1011 PN\nAmsterdam\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFlMzI4MTUtNjcwNi00Njc5LWI3M2YtY2QyNDM2MWE2NWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22e8df989b-59a5-414a-adff-584d3f527538%22%7d>\nVergadering-id: 386 047 876 037 53\nWachtwoordcode: Vg2ht9gq\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=e8df989b-59a5-414a-adff-584d3f527538&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NGFlMzI4MTUtNjcwNi00Njc5LWI3M2YtY2QyNDM2MWE2NWU2@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000000041CC6D7658DC0100000000000000001000000027646EEE551120419E0857882F935796
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260120T113000
+SUMMARY:Weekstart Wonen
+DTSTART;TZID=W. Europe Standard Time:20260120T113000
+DTEND;TZID=W. Europe Standard Time:20260120T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:7
+LOCATION:Pantry 4B
+X-MICROSOFT-CDO-APPT-SEQUENCE:7
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Wel handig als jij ook een uitnodiging ontvangt inderdaad:)\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/34805170276043?p=FoBnrBBrmviC9Tf4lg\nVergadering-id: 348 051 702 760 43\nWachtwoordcode: ZQ7aZ6VC\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJmY2QyNmYtYWY2Ny00NWY3LTk1ZmYtYzY5MmUwZGM2NmUz%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22cc9a0e4c-dc89-4fd3-a0cc-7e98eaed204b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=cc9a0e4c-dc89-4fd3-a0cc-7e98eaed204b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NDJmY2QyNmYtYWY2Ny00NWY3LTk1ZmYtYzY5MmUwZGM2NmUz@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 UID:040000008200E00074C5B7101A82E00800000000CB8A33784789DC010000000000000000100000002E4BF4A76FD7C741A5F5CE3C7EAD5977
 SUMMARY:Financieel overzicht doornemen
@@ -593,7 +518,7 @@ DTSTART;TZID=W. Europe Standard Time:20260120T130000
 DTEND;TZID=W. Europe Standard Time:20260120T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -618,7 +543,7 @@ DTSTART;TZID=W. Europe Standard Time:20260121T080000
 DTEND;TZID=W. Europe Standard Time:20260121T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -643,7 +568,7 @@ DTSTART;TZID=W. Europe Standard Time:20260121T080000
 DTEND;TZID=W. Europe Standard Time:20260121T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -667,7 +592,7 @@ DTSTART;TZID=W. Europe Standard Time:20260121T090000
 DTEND;TZID=W. Europe Standard Time:20260121T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -691,7 +616,7 @@ DTSTART;TZID=W. Europe Standard Time:20260121T093000
 DTEND;TZID=W. Europe Standard Time:20260121T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -715,7 +640,7 @@ DTSTART;TZID=W. Europe Standard Time:20260121T103000
 DTEND;TZID=W. Europe Standard Time:20260121T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -739,7 +664,7 @@ DTSTART;TZID=W. Europe Standard Time:20260121T130000
 DTEND;TZID=W. Europe Standard Time:20260121T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -763,7 +688,7 @@ DTSTART;TZID=W. Europe Standard Time:20260122T073000
 DTEND;TZID=W. Europe Standard Time:20260122T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -781,31 +706,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33014757257550?p=pP9sQQANKE1vNSivOO\nVergadering-id: 330 147 572 575 50\nWachtwoordcode: Jr6HM7wG\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E00800000000C7B253B8FB85DC01000000000000000010000000395BB3CDC8882544988E10BBCA571E2B
-RECURRENCE-ID;TZID=W. Europe Standard Time:20260122T100000
-SUMMARY:Operationeel overleg renovatieadvies en AIO - Regionaal Energieloket
-DTSTART;TZID=W. Europe Standard Time:20260122T100000
-DTEND;TZID=W. Europe Standard Time:20260122T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:2
-LOCATION:Microsoft Teams-vergadering
-X-MICROSOFT-CDO-APPT-SEQUENCE:2
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33014757257550?p=pP9sQQANKE1vNSivOO\nVergadering-id: 330 147 572 575 50\nWachtwoordcode: Jr6HM7wG\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 RRULE:FREQ=WEEKLY;UNTIL=20260122T090000Z;INTERVAL=2;BYDAY=TH;WKST=MO
 UID:040000008200E00074C5B7101A82E00800000000C7B253B8FB85DC01000000000000000010000000395BB3CDC8882544988E10BBCA571E2B
 SUMMARY:Operationeel overleg renovatieadvies en AIO - Regionaal Energieloket
@@ -813,7 +713,7 @@ DTSTART;TZID=W. Europe Standard Time:20260122T100000
 DTEND;TZID=W. Europe Standard Time:20260122T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -830,6 +730,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33014757257550?p=pP9sQQANKE1vNSivOO\nVergadering-id: 330 147 572 575 50\nWachtwoordcode: Jr6HM7wG\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000C7B253B8FB85DC01000000000000000010000000395BB3CDC8882544988E10BBCA571E2B
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260122T100000
+SUMMARY:Operationeel overleg renovatieadvies en AIO - Regionaal Energieloket
+DTSTART;TZID=W. Europe Standard Time:20260122T100000
+DTEND;TZID=W. Europe Standard Time:20260122T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Bij deze een kennismakingsafspraak.\n\nGroetjes\, Lesley\n
 UID:040000008200E00074C5B7101A82E0080000000090550CC60C8ADC010000000000000000100000008BEAB10927536344AA8D7035E6DED1B9
 SUMMARY:Kennismaken Florence - Lesley - Wouter
@@ -837,7 +762,7 @@ DTSTART;TZID=W. Europe Standard Time:20260122T140000
 DTEND;TZID=W. Europe Standard Time:20260122T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -862,7 +787,7 @@ DTSTART;TZID=W. Europe Standard Time:20260122T160000
 DTEND;TZID=W. Europe Standard Time:20260122T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -887,7 +812,7 @@ DTSTART;TZID=W. Europe Standard Time:20260122T160000
 DTEND;TZID=W. Europe Standard Time:20260122T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -911,7 +836,7 @@ DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -935,7 +860,7 @@ DTSTART;TZID=W. Europe Standard Time:20260126T083000
 DTEND;TZID=W. Europe Standard Time:20260126T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -959,7 +884,7 @@ DTSTART;TZID=W. Europe Standard Time:20260126T090000
 DTEND;TZID=W. Europe Standard Time:20260126T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -977,31 +902,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n________________________________\nVan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\nVerzonden: maandag 27 januari 2025 13:49:28 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nOnderwerp: Voorbereiding halfjaarlijkse evaluaties AIO\nWanneer: Vindt om de 6 maanden plaats op de vierde maandag van de maand van 10:00 tot 11:00 geldig vanaf 28-7-2025 tot 28-4-2028.\nWaar: Microsoft Teams-vergadering\n\nHi\,\n\nIk plan ook alvast alle interne voorbereidingmeetings in voor de externe AIO evaluaties.\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2M4MzgxNTgtZjJhYi00YTU0LTkyNWItZWYyZWI4ZjliYTBl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22533e5805-1e56-4454-9168-31825951c773%22%7d>\nVergadering-id: 395 524 040 11\nWachtwoordcode: Rc7NE3vv\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=533e5805-1e56-4454-9168-31825951c773&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_N2M4MzgxNTgtZjJhYi00YTU0LTkyNWItZWYyZWI4ZjliYTBl@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
-RRULE:FREQ=MONTHLY;UNTIL=20260727T080000Z;INTERVAL=6;BYDAY=4MO
-UID:040000008200E00074C5B7101A82E00800000000105376CBC170DB0100000000000000001000000006A1060E1A45DD44BE25113E82F15883
-SUMMARY:Voorbereiding halfjaarlijkse evaluaties AIO
-DTSTART;TZID=W. Europe Standard Time:20260126T100000
-DTEND;TZID=W. Europe Standard Time:20260126T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:3
-LOCATION:Microsoft Teams-vergadering
-X-MICROSOFT-CDO-APPT-SEQUENCE:3
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________\nVan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\nVerzonden: maandag 27 januari 2025 13:49:28 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nOnderwerp: Voorbereiding halfjaarlijkse evaluaties AIO\nWanneer: Vindt om de 6 maanden plaats op de vierde maandag van de maand van 10:00 tot 11:00 geldig vanaf 28-7-2025 tot 28-4-2028.\nWaar: Microsoft Teams-vergadering\n\nHi\,\n\nIk plan ook alvast alle interne voorbereidingmeetings in voor de externe AIO evaluaties.\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2M4MzgxNTgtZjJhYi00YTU0LTkyNWItZWYyZWI4ZjliYTBl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22533e5805-1e56-4454-9168-31825951c773%22%7d>\nVergadering-id: 395 524 040 11\nWachtwoordcode: Rc7NE3vv\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=533e5805-1e56-4454-9168-31825951c773&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_N2M4MzgxNTgtZjJhYi00YTU0LTkyNWItZWYyZWI4ZjliYTBl@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
 UID:040000008200E00074C5B7101A82E00800000000105376CBC170DB0100000000000000001000000006A1060E1A45DD44BE25113E82F15883
 RECURRENCE-ID;TZID=W. Europe Standard Time:20260126T100000
 SUMMARY:Voorbereiding halfjaarlijkse evaluaties AIO
@@ -1009,7 +909,7 @@ DTSTART;TZID=W. Europe Standard Time:20260126T100000
 DTEND;TZID=W. Europe Standard Time:20260126T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -1026,6 +926,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nVan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\nVerzonden: maandag 27 januari 2025 13:49:28 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nOnderwerp: Voorbereiding halfjaarlijkse evaluaties AIO\nWanneer: Vindt om de 6 maanden plaats op de vierde maandag van de maand van 10:00 tot 11:00 geldig vanaf 28-7-2025 tot 28-4-2028.\nWaar: Microsoft Teams-vergadering\n\nHi\,\n\nIk plan ook alvast alle interne voorbereidingmeetings in voor de externe AIO evaluaties.\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2M4MzgxNTgtZjJhYi00YTU0LTkyNWItZWYyZWI4ZjliYTBl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22533e5805-1e56-4454-9168-31825951c773%22%7d>\nVergadering-id: 395 524 040 11\nWachtwoordcode: Rc7NE3vv\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=533e5805-1e56-4454-9168-31825951c773&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_N2M4MzgxNTgtZjJhYi00YTU0LTkyNWItZWYyZWI4ZjliYTBl@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=MONTHLY;UNTIL=20260727T080000Z;INTERVAL=6;BYDAY=4MO
+UID:040000008200E00074C5B7101A82E00800000000105376CBC170DB0100000000000000001000000006A1060E1A45DD44BE25113E82F15883
+SUMMARY:Voorbereiding halfjaarlijkse evaluaties AIO
+DTSTART;TZID=W. Europe Standard Time:20260126T100000
+DTEND;TZID=W. Europe Standard Time:20260126T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Hi Jara en Florence\,\n\nGraag zou ik binnenkort kennismaken met jullie. Van Geertje begrijp ik dat jullie je bezighouden met de aanpak voor particuliere woningeigenaren. Ik ga voor het SMP-team aan de slag met het benaderen van externe stakeholders\, waaronder particulieren. Daarvoor zou ik graag meer te weten komen over de aanpak vanuit jullie team en hoe we kunnen samenwerken om huiseigenaren te informeren over natuurvriendelijk isoleren en hoe je het SMP hiervoor kan gebruiken.\n\nHopelijk komt volgende week maandag jullie ook goed uit!\n\nVriendelijke groet\,\nStefan\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/38666579585310?p=swzoyPxvOpFmAXTSyY\nVergadering-id: 386 665 795 853 10\nWachtwoordcode: or6HU96F\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRmOWUyNWUtZjg2NC00YjQ5LWFkZmUtZjJjNGNiNDIzNGVh%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22598c01ec-5801-41d1-98c0-3aedf6c97e0f%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=598c01ec-5801-41d1-98c0-3aedf6c97e0f&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_YTRmOWUyNWUtZjg2NC00YjQ5LWFkZmUtZjJjNGNiNDIzNGVh@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 UID:040000008200E00074C5B7101A82E00800000000F59386FF5589DC01000000000000000010000000CFC25EC95A742B41894A3970DD77A730
 SUMMARY:Kennismaking Jara/Florence/Stefan
@@ -1033,7 +958,7 @@ DTSTART;TZID=W. Europe Standard Time:20260126T130000
 DTEND;TZID=W. Europe Standard Time:20260126T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1057,7 +982,7 @@ DTSTART;TZID=W. Europe Standard Time:20260126T140000
 DTEND;TZID=W. Europe Standard Time:20260126T144500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -1081,7 +1006,7 @@ DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1105,7 +1030,7 @@ DTSTART;TZID=W. Europe Standard Time:20260127T073000
 DTEND;TZID=W. Europe Standard Time:20260127T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1129,7 +1054,7 @@ DTSTART;TZID=W. Europe Standard Time:20260127T083000
 DTEND;TZID=W. Europe Standard Time:20260127T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1154,7 +1079,7 @@ DTSTART;TZID=W. Europe Standard Time:20260127T100000
 DTEND;TZID=W. Europe Standard Time:20260127T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -1179,7 +1104,7 @@ DTSTART;TZID=W. Europe Standard Time:20260127T113000
 DTEND;TZID=W. Europe Standard Time:20260127T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:7
@@ -1203,7 +1128,7 @@ DTSTART;TZID=W. Europe Standard Time:20260127T130000
 DTEND;TZID=W. Europe Standard Time:20260127T133000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1227,7 +1152,7 @@ DTSTART;TZID=W. Europe Standard Time:20260127T140000
 DTEND;TZID=W. Europe Standard Time:20260127T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1252,7 +1177,7 @@ DTSTART;TZID=Romance Standard Time:20260127T153000
 DTEND;TZID=Romance Standard Time:20260127T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:514
@@ -1270,13 +1195,39 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20260811T133000Z;INTERVAL=2;BYDAY=TU;WKST=MO
+EXDATE;TZID=Romance Standard Time:20260421T153000
+UID:040000008200E00074C5B7101A82E008000000003034A53A5EB9D90100000000000000001000000077CF8BD5104B90458CA4EC46E34048A8
+SUMMARY:W&D Teamoverleg
+DTSTART;TZID=Romance Standard Time:20260127T153000
+DTEND;TZID=Romance Standard Time:20260127T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:504
+LOCATION:ntb
+X-MICROSOFT-CDO-APPT-SEQUENCE:504
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
 UID:040000008200E00074C5B7101A82E008000000003E0A728D2E90DC010000000000000000100000004646ABD6A470404098826312971038C0
 SUMMARY:Amstel 1
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1301,7 +1252,7 @@ DTSTART;TZID=W. Europe Standard Time:20260128T073000
 DTEND;TZID=W. Europe Standard Time:20260128T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1325,7 +1276,7 @@ DTSTART;TZID=W. Europe Standard Time:20260128T140000
 DTEND;TZID=W. Europe Standard Time:20260128T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1349,7 +1300,7 @@ DTSTART;TZID=W. Europe Standard Time:20260128T173000
 DTEND;TZID=W. Europe Standard Time:20260128T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1373,7 +1324,7 @@ DTSTART;TZID=W. Europe Standard Time:20260128T190000
 DTEND;TZID=W. Europe Standard Time:20260128T210000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -1397,7 +1348,7 @@ DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1421,7 +1372,7 @@ DTSTART;TZID=W. Europe Standard Time:20260129T073000
 DTEND;TZID=W. Europe Standard Time:20260129T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1446,7 +1397,7 @@ DTSTART;TZID=W. Europe Standard Time:20260129T160000
 DTEND;TZID=W. Europe Standard Time:20260129T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1470,7 +1421,7 @@ DTSTART;TZID=W. Europe Standard Time:20260129T173000
 DTEND;TZID=W. Europe Standard Time:20260129T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1494,7 +1445,7 @@ DTSTART;TZID=W. Europe Standard Time:20260129T190000
 DTEND;TZID=W. Europe Standard Time:20260129T210000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -1519,7 +1470,7 @@ DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1543,7 +1494,7 @@ DTSTART;TZID=W. Europe Standard Time:20260202T100000
 DTEND;TZID=W. Europe Standard Time:20260202T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1568,7 +1519,7 @@ DTSTART;TZID=W. Europe Standard Time:20260202T110500
 DTEND;TZID=W. Europe Standard Time:20260202T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:78
@@ -1593,7 +1544,7 @@ DTSTART;TZID=W. Europe Standard Time:20260202T140000
 DTEND;TZID=W. Europe Standard Time:20260202T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -1618,7 +1569,7 @@ DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1642,7 +1593,7 @@ DTSTART;TZID=W. Europe Standard Time:20260203T093000
 DTEND;TZID=W. Europe Standard Time:20260203T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -1666,7 +1617,7 @@ DTSTART;TZID=W. Europe Standard Time:20260203T130000
 DTEND;TZID=W. Europe Standard Time:20260203T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1690,7 +1641,7 @@ DTSTART;TZID=W. Europe Standard Time:20260203T140000
 DTEND;TZID=W. Europe Standard Time:20260203T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -1714,7 +1665,7 @@ DTSTART;TZID=W. Europe Standard Time:20260203T150000
 DTEND;TZID=W. Europe Standard Time:20260203T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1738,7 +1689,7 @@ DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1762,7 +1713,7 @@ DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1787,7 +1738,7 @@ DTSTART;TZID=W. Europe Standard Time:20260204T073000
 DTEND;TZID=W. Europe Standard Time:20260204T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1812,7 +1763,7 @@ DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1836,7 +1787,7 @@ DTSTART;TZID=W. Europe Standard Time:20260205T083000
 DTEND;TZID=W. Europe Standard Time:20260205T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1861,7 +1812,7 @@ DTSTART;TZID=W. Europe Standard Time:20260205T090000
 DTEND;TZID=W. Europe Standard Time:20260205T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -1885,7 +1836,7 @@ DTSTART;TZID=W. Europe Standard Time:20260205T090000
 DTEND;TZID=W. Europe Standard Time:20260205T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1903,31 +1854,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33014757257550?p=pP9sQQANKE1vNSivOO\nVergadering-id: 330 147 572 575 50\nWachtwoordcode: Jr6HM7wG\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E0080000000050B4E16F978BDC010000000000000000100000004BA92628C96329458AE919F4688AC486
-RECURRENCE-ID;TZID=W. Europe Standard Time:20260205T100000
-SUMMARY:Operationeel overleg renovatieadvies en AIO - Regionaal Energieloket
-DTSTART;TZID=W. Europe Standard Time:20260205T100000
-DTEND;TZID=W. Europe Standard Time:20260205T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:4
-LOCATION:Microsoft Teams-vergadering
-X-MICROSOFT-CDO-APPT-SEQUENCE:4
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33014757257550?p=pP9sQQANKE1vNSivOO\nVergadering-id: 330 147 572 575 50\nWachtwoordcode: Jr6HM7wG\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 RRULE:FREQ=WEEKLY;UNTIL=20260806T080000Z;INTERVAL=2;BYDAY=TH;WKST=MO
 EXDATE;TZID=W. Europe Standard Time:20260219T100000
 UID:040000008200E00074C5B7101A82E0080000000050B4E16F978BDC010000000000000000100000004BA92628C96329458AE919F4688AC486
@@ -1936,7 +1862,7 @@ DTSTART;TZID=W. Europe Standard Time:20260205T100000
 DTEND;TZID=W. Europe Standard Time:20260205T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1953,6 +1879,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33014757257550?p=pP9sQQANKE1vNSivOO\nVergadering-id: 330 147 572 575 50\nWachtwoordcode: Jr6HM7wG\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjZkYTU2OTItNWUyNi00YjQ2LTkxNjgtYzZjNWE4ODZiMzE1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E0080000000050B4E16F978BDC010000000000000000100000004BA92628C96329458AE919F4688AC486
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260205T100000
+SUMMARY:Operationeel overleg renovatieadvies en AIO - Regionaal Energieloket
+DTSTART;TZID=W. Europe Standard Time:20260205T100000
+DTEND;TZID=W. Europe Standard Time:20260205T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:4
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Tijdens deze sessie duiken we in de wondere wereld van welstand in Amsterdam en het gebruik van biobased isolatiematerialen.\nAansluitend maken we een korte wandeling door Tuindorp Nieuwendam.\n\nInloop van 12:30 - 13:00\n13:00 - 13:30 Kennismaking en verwachtingen\n13:30 - 14:15 Verduurzaming (isolatie\, bouwfysische risico’s\, circulair/biobased\, en erfgoed)\n14:15 - 14:30 Pauze\n14:30 - 15:15 Welstand (ordepanden\, welstandsniveaus\, monumenten\, stadsgezichten)\n15:15 - 16:00 Rondje door Tuindorp Nieuwendam\n\nAdres:\nNieuwendammerkerk Amsterdam Noord\nBrede Kerkepad 6-8\n1023 BH Amsterdam\n\n\n\n\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWMxZDUwMTUtNDE2MS00NDFlLWI0ZDEtMmZkNmI3MTZjNGZh%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22cc9a0e4c-dc89-4fd3-a0cc-7e98eaed204b%22%7d>\nVergadering-id: 323 181 410 794 60\nWachtwoordcode: 5JS6wu7X\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=cc9a0e4c-dc89-4fd3-a0cc-7e98eaed204b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MWMxZDUwMTUtNDE2MS00NDFlLWI0ZDEtMmZkNmI3MTZjNGZh@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
 UID:040000008200E00074C5B7101A82E008000000007CCB9B96BA62DC010000000000000000100000002D80E343A9953A4195A6FE121DE3A74A
 SUMMARY:Sessie welstand en biobased isolatie 
@@ -1960,7 +1911,7 @@ DTSTART;TZID=W. Europe Standard Time:20260205T130000
 DTEND;TZID=W. Europe Standard Time:20260205T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:7
@@ -1984,7 +1935,7 @@ DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2002,31 +1953,6 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n
-RRULE:FREQ=WEEKLY;UNTIL=20260206T070000Z;INTERVAL=1;BYDAY=FR;WKST=MO
-UID:040000008200E00074C5B7101A82E00800000000E2A8A610788BDC010000000000000000100000009D9F8D4ECF5CE544B9482408F8E06D04
-SUMMARY:Subsidieoverzichten bijwerken
-DTSTART;TZID=W. Europe Standard Time:20260206T080000
-DTEND;TZID=W. Europe Standard Time:20260206T090000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n
 UID:040000008200E00074C5B7101A82E00800000000E2A8A610788BDC010000000000000000100000009D9F8D4ECF5CE544B9482408F8E06D04
 RECURRENCE-ID;TZID=W. Europe Standard Time:20260206T080000
 SUMMARY:Subsidieoverzichten bijwerken
@@ -2034,7 +1960,7 @@ DTSTART;TZID=W. Europe Standard Time:20260206T080000
 DTEND;TZID=W. Europe Standard Time:20260206T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2052,7 +1978,32 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n
-RRULE:FREQ=WEEKLY;UNTIL=20260807T073000Z;INTERVAL=1;BYDAY=FR;WKST=MO
+RRULE:FREQ=WEEKLY;UNTIL=20260206T070000Z;INTERVAL=1;BYDAY=FR;WKST=MO
+UID:040000008200E00074C5B7101A82E00800000000E2A8A610788BDC010000000000000000100000009D9F8D4ECF5CE544B9482408F8E06D04
+SUMMARY:Subsidieoverzichten bijwerken
+DTSTART;TZID=W. Europe Standard Time:20260206T080000
+DTEND;TZID=W. Europe Standard Time:20260206T090000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20260814T073000Z;INTERVAL=1;BYDAY=FR;WKST=MO
 EXDATE;TZID=W. Europe Standard Time:20260417T093000
 UID:040000008200E00074C5B7101A82E008000000005EFE626F778BDC010000000000000000100000007AB55840D0F8FB43B7DB75162B34D36E
 SUMMARY:Bezet
@@ -2060,7 +2011,7 @@ DTSTART;TZID=W. Europe Standard Time:20260206T093000
 DTEND;TZID=W. Europe Standard Time:20260206T123000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2084,7 +2035,7 @@ DTSTART;TZID=W. Europe Standard Time:20260206T123000
 DTEND;TZID=W. Europe Standard Time:20260206T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2102,14 +2053,14 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n
-RRULE:FREQ=WEEKLY;UNTIL=20260807T113000Z;INTERVAL=1;BYDAY=FR;WKST=MO
+RRULE:FREQ=WEEKLY;UNTIL=20260814T113000Z;INTERVAL=1;BYDAY=FR;WKST=MO
 UID:040000008200E00074C5B7101A82E00800000000BC4F9613A88EDC010000000000000000100000001B9CA0E44099E942BF0C93A5A2621BB6
 SUMMARY:Weekafsluiting
 DTSTART;TZID=W. Europe Standard Time:20260206T133000
 DTEND;TZID=W. Europe Standard Time:20260206T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2133,7 +2084,7 @@ DTSTART;TZID=W. Europe Standard Time:20260209T080000
 DTEND;TZID=W. Europe Standard Time:20260209T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2157,36 +2108,12 @@ DTSTART;TZID=W. Europe Standard Time:20260209T110000
 DTEND;TZID=W. Europe Standard Time:20260209T114500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
 LOCATION:Microsoft Teams-vergadering
 X-MICROSOFT-CDO-APPT-SEQUENCE:3
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/35239365493693?p=haWSS1PwjkFsZ8ElwL\nVergadering-id: 352 393 654 936 93\nWachtwoordcode: FF2u7xm6\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjllMTBkYjQtMDE3Mi00YTFhLWFhZTctYWVhNTE4NmVjMTc5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjllMTBkYjQtMDE3Mi00YTFhLWFhZTctYWVhNTE4NmVjMTc5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E00800000000FD8C5D141A94DC0100000000000000001000000031EAC4374D017342BC74C562C18256A1
-SUMMARY:Weekstart EB-EGW
-DTSTART;TZID=W. Europe Standard Time:20260209T133000
-DTEND;TZID=W. Europe Standard Time:20260209T143000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260213T185412Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:1
-LOCATION:Microsoft Teams-vergadering\; AMST1 1.e0 4P
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
@@ -2205,12 +2132,36 @@ DTSTART;TZID=W. Europe Standard Time:20260209T133000
 DTEND;TZID=W. Europe Standard Time:20260209T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
 LOCATION:AMST1 1.e0 4P <amst1.1.e0@amsterdam.nl>
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/35239365493693?p=haWSS1PwjkFsZ8ElwL\nVergadering-id: 352 393 654 936 93\nWachtwoordcode: FF2u7xm6\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjllMTBkYjQtMDE3Mi00YTFhLWFhZTctYWVhNTE4NmVjMTc5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjllMTBkYjQtMDE3Mi00YTFhLWFhZTctYWVhNTE4NmVjMTc5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000FD8C5D141A94DC0100000000000000001000000031EAC4374D017342BC74C562C18256A1
+SUMMARY:Weekstart EB-EGW
+DTSTART;TZID=W. Europe Standard Time:20260209T133000
+DTEND;TZID=W. Europe Standard Time:20260209T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260214T021114Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering\; AMST1 1.e0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
@@ -2229,7 +2180,7 @@ DTSTART;TZID=W. Europe Standard Time:20260210T073000
 DTEND;TZID=W. Europe Standard Time:20260210T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2253,7 +2204,7 @@ DTSTART;TZID=W. Europe Standard Time:20260210T120000
 DTEND;TZID=W. Europe Standard Time:20260210T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2278,7 +2229,7 @@ DTSTART;TZID=Romance Standard Time:20260210T153000
 DTEND;TZID=Romance Standard Time:20260210T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:516
@@ -2302,7 +2253,7 @@ DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2327,7 +2278,7 @@ DTSTART;TZID=W. Europe Standard Time:20260211T073000
 DTEND;TZID=W. Europe Standard Time:20260211T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2352,7 +2303,7 @@ DTSTART;TZID=W. Europe Standard Time:20260211T103000
 DTEND;TZID=W. Europe Standard Time:20260211T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2376,7 +2327,7 @@ DTSTART;TZID=W. Europe Standard Time:20260211T130000
 DTEND;TZID=W. Europe Standard Time:20260211T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -2400,7 +2351,7 @@ DTSTART;TZID=W. Europe Standard Time:20260211T140000
 DTEND;TZID=W. Europe Standard Time:20260211T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2424,7 +2375,7 @@ DTSTART;TZID=W. Europe Standard Time:20260212T090000
 DTEND;TZID=W. Europe Standard Time:20260212T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2448,7 +2399,7 @@ DTSTART;TZID=W. Europe Standard Time:20260212T100000
 DTEND;TZID=W. Europe Standard Time:20260212T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2472,7 +2423,7 @@ DTSTART;TZID=W. Europe Standard Time:20260212T103000
 DTEND;TZID=W. Europe Standard Time:20260212T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -2496,7 +2447,7 @@ DTSTART;TZID=W. Europe Standard Time:20260212T113000
 DTEND;TZID=W. Europe Standard Time:20260212T123000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2520,7 +2471,7 @@ DTSTART;TZID=W. Europe Standard Time:20260212T123000
 DTEND;TZID=W. Europe Standard Time:20260212T133000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -2544,7 +2495,7 @@ DTSTART;TZID=W. Europe Standard Time:20260213T073000
 DTEND;TZID=W. Europe Standard Time:20260213T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2569,7 +2520,7 @@ DTSTART;TZID=W. Europe Standard Time:20260213T073000
 DTEND;TZID=W. Europe Standard Time:20260213T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2594,7 +2545,7 @@ DTSTART;TZID=W. Europe Standard Time:20260213T083000
 DTEND;TZID=W. Europe Standard Time:20260213T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2618,7 +2569,7 @@ DTSTART;TZID=W. Europe Standard Time:20260213T123000
 DTEND;TZID=W. Europe Standard Time:20260213T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2642,7 +2593,7 @@ DTSTART;TZID=W. Europe Standard Time:20260216T103000
 DTEND;TZID=W. Europe Standard Time:20260216T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2667,7 +2618,7 @@ DTSTART;TZID=W. Europe Standard Time:20260216T110500
 DTEND;TZID=W. Europe Standard Time:20260216T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:36
@@ -2692,7 +2643,7 @@ DTSTART;TZID=W. Europe Standard Time:20260216T110500
 DTEND;TZID=W. Europe Standard Time:20260216T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:36
@@ -2716,7 +2667,7 @@ DTSTART;TZID=W. Europe Standard Time:20260216T120000
 DTEND;TZID=W. Europe Standard Time:20260216T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -2741,7 +2692,7 @@ DTSTART;TZID=W. Europe Standard Time:20260216T140000
 DTEND;TZID=W. Europe Standard Time:20260216T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:16
@@ -2765,7 +2716,7 @@ DTSTART;TZID=W. Europe Standard Time:20260217T120000
 DTEND;TZID=W. Europe Standard Time:20260217T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2789,7 +2740,7 @@ DTSTART;TZID=W. Europe Standard Time:20260217T133000
 DTEND;TZID=W. Europe Standard Time:20260217T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2813,7 +2764,7 @@ DTSTART;TZID=W. Europe Standard Time:20260217T170000
 DTEND;TZID=W. Europe Standard Time:20260217T203000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:7
@@ -2837,7 +2788,7 @@ DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2861,7 +2812,7 @@ DTSTART;TZID=W. Europe Standard Time:20260218T093000
 DTEND;TZID=W. Europe Standard Time:20260218T101500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -2886,7 +2837,7 @@ DTSTART;TZID=W. Europe Standard Time:20260218T103000
 DTEND;TZID=W. Europe Standard Time:20260218T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2910,7 +2861,7 @@ DTSTART;TZID=W. Europe Standard Time:20260218T130000
 DTEND;TZID=W. Europe Standard Time:20260218T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2934,7 +2885,7 @@ DTSTART;TZID=W. Europe Standard Time:20260219T103000
 DTEND;TZID=W. Europe Standard Time:20260219T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -2952,14 +2903,14 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n
-RRULE:FREQ=WEEKLY;UNTIL=20260807T060000Z;INTERVAL=1;BYDAY=FR;WKST=MO
+RRULE:FREQ=WEEKLY;UNTIL=20260814T060000Z;INTERVAL=1;BYDAY=FR;WKST=MO
 UID:040000008200E00074C5B7101A82E00800000000C0FEA9563294DC01000000000000000010000000500CA99C11B9794BBA5866D63BE2D283
 SUMMARY:Subsidieoverzichten bijwerken
 DTSTART;TZID=W. Europe Standard Time:20260220T080000
 DTEND;TZID=W. Europe Standard Time:20260220T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -2984,7 +2935,7 @@ DTSTART;TZID=W. Europe Standard Time:20260223T073000
 DTEND;TZID=W. Europe Standard Time:20260223T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3009,7 +2960,7 @@ DTSTART;TZID=W. Europe Standard Time:20260224T073000
 DTEND;TZID=W. Europe Standard Time:20260224T083000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3034,7 +2985,7 @@ DTSTART;TZID=W. Europe Standard Time:20260224T103000
 DTEND;TZID=W. Europe Standard Time:20260224T112500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:60
@@ -3059,7 +3010,7 @@ DTSTART;TZID=Romance Standard Time:20260224T153000
 DTEND;TZID=Romance Standard Time:20260224T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:508
@@ -3083,7 +3034,7 @@ DTSTART;TZID=W. Europe Standard Time:20260225T130000
 DTEND;TZID=W. Europe Standard Time:20260225T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3107,7 +3058,7 @@ DTSTART;TZID=W. Europe Standard Time:20260226T110000
 DTEND;TZID=W. Europe Standard Time:20260226T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:5
@@ -3132,7 +3083,7 @@ DTSTART;TZID=W. Europe Standard Time:20260302T110500
 DTEND;TZID=W. Europe Standard Time:20260302T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:56
@@ -3156,7 +3107,7 @@ DTSTART;TZID=W. Europe Standard Time:20260303T160000
 DTEND;TZID=W. Europe Standard Time:20260303T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -3181,7 +3132,7 @@ DTSTART;TZID=W. Europe Standard Time:20260309T110500
 DTEND;TZID=W. Europe Standard Time:20260309T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:54
@@ -3206,7 +3157,7 @@ DTSTART;TZID=W. Europe Standard Time:20260309T153000
 DTEND;TZID=W. Europe Standard Time:20260309T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3231,7 +3182,7 @@ DTSTART;TZID=Romance Standard Time:20260310T153000
 DTEND;TZID=Romance Standard Time:20260310T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:507
@@ -3255,7 +3206,7 @@ DTSTART;TZID=W. Europe Standard Time:20260310T180000
 DTEND;TZID=W. Europe Standard Time:20260310T210000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -3279,7 +3230,7 @@ DTSTART;TZID=W. Europe Standard Time:20260311T180000
 DTEND;TZID=W. Europe Standard Time:20260311T210000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -3304,7 +3255,7 @@ DTSTART;TZID=W. Europe Standard Time:20260316T110500
 DTEND;TZID=W. Europe Standard Time:20260316T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:52
@@ -3329,7 +3280,7 @@ DTSTART;TZID=W. Europe Standard Time:20260323T110500
 DTEND;TZID=W. Europe Standard Time:20260323T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:50
@@ -3353,7 +3304,7 @@ DTSTART;TZID=W. Europe Standard Time:20260323T153000
 DTEND;TZID=W. Europe Standard Time:20260323T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3377,7 +3328,7 @@ DTSTART;TZID=W. Europe Standard Time:20260324T150000
 DTEND;TZID=W. Europe Standard Time:20260324T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -3402,7 +3353,7 @@ DTSTART;TZID=Romance Standard Time:20260324T153000
 DTEND;TZID=Romance Standard Time:20260324T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:505
@@ -3427,7 +3378,7 @@ DTSTART;TZID=W. Europe Standard Time:20260330T110500
 DTEND;TZID=W. Europe Standard Time:20260330T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:48
@@ -3451,7 +3402,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T120000
 DTEND;TZID=W. Europe Standard Time:20260401T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3475,7 +3426,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T130000
 DTEND;TZID=W. Europe Standard Time:20260401T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3499,7 +3450,7 @@ DTSTART;TZID=W. Europe Standard Time:20260402T160000
 DTEND;TZID=W. Europe Standard Time:20260402T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3523,7 +3474,7 @@ DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3548,7 +3499,7 @@ DTSTART;TZID=W. Europe Standard Time:20260407T100000
 DTEND;TZID=W. Europe Standard Time:20260407T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:46
@@ -3573,7 +3524,7 @@ DTSTART;TZID=Romance Standard Time:20260407T153000
 DTEND;TZID=Romance Standard Time:20260407T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:506
@@ -3598,7 +3549,7 @@ DTSTART;TZID=W. Europe Standard Time:20260413T100000
 DTEND;TZID=W. Europe Standard Time:20260413T105500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:44
@@ -3623,7 +3574,7 @@ DTSTART;TZID=W. Europe Standard Time:20260413T110000
 DTEND;TZID=W. Europe Standard Time:20260413T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -3648,7 +3599,7 @@ DTSTART;TZID=W. Europe Standard Time:20260413T110000
 DTEND;TZID=W. Europe Standard Time:20260413T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3672,7 +3623,7 @@ DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260422
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3697,7 +3648,7 @@ DTSTART;TZID=W. Europe Standard Time:20260420T110500
 DTEND;TZID=W. Europe Standard Time:20260420T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:42
@@ -3721,7 +3672,7 @@ DTSTART;TZID=W. Europe Standard Time:20260423T093000
 DTEND;TZID=W. Europe Standard Time:20260423T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3745,7 +3696,7 @@ DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3770,7 +3721,7 @@ DTSTART;TZID=W. Europe Standard Time:20260428T100000
 DTEND;TZID=W. Europe Standard Time:20260428T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:40
@@ -3795,7 +3746,7 @@ DTSTART;TZID=W. Europe Standard Time:20260429T100000
 DTEND;TZID=W. Europe Standard Time:20260429T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -3819,7 +3770,7 @@ DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3843,7 +3794,7 @@ DTSTART;TZID=W. Europe Standard Time:20260507T093000
 DTEND;TZID=W. Europe Standard Time:20260507T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3867,7 +3818,7 @@ DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3891,7 +3842,7 @@ DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3916,7 +3867,7 @@ DTSTART;TZID=W. Europe Standard Time:20260526T100000
 DTEND;TZID=W. Europe Standard Time:20260526T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:38
@@ -3941,7 +3892,7 @@ DTSTART;TZID=W. Europe Standard Time:20260527T093000
 DTEND;TZID=W. Europe Standard Time:20260527T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -3965,7 +3916,7 @@ DTSTART;TZID=W. Europe Standard Time:20260701T130000
 DTEND;TZID=W. Europe Standard Time:20260701T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -3989,7 +3940,7 @@ DTSTART;TZID=W. Europe Standard Time:20260720T073000
 DTEND;TZID=W. Europe Standard Time:20260720T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -4014,7 +3965,7 @@ DTSTART;TZID=W. Europe Standard Time:20260813T090000
 DTEND;TZID=W. Europe Standard Time:20260813T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260213T185412Z
+DTSTAMP:20260214T021114Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:13
